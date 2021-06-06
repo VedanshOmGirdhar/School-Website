@@ -1,0 +1,21 @@
+#school_name h2{
+    
+    
+    color: red;
+}
+h1{
+    font-weight: 650;
+    color: purple;
+}
+body{
+    background-color: skyblue;
+    text-align: center;
+}
+p{
+    font-weight: bold
+}
+#i1{
+   border-radius: 300px;
+    width: 350px;
+    height: 300px;
+}
